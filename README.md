@@ -1,5 +1,5 @@
-# magisk-ColorOS15FunctionComplement
-ColorOS15特性补齐
+# magisk-ColorOSCommonFeatureSupplements
+ColorOS15+特性补齐
 
 # 添加的特性有
 流体云，高级材质，堆叠后台等多个特性
