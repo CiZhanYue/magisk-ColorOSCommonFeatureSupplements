@@ -1,0 +1,2 @@
+# magisk-ColorOS15FunctionComplement
+ColorOS特性补齐模块
