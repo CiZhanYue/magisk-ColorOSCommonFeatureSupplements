@@ -1,3 +1,9 @@
+# v1.2.2 优化
+# 优化
+优化了service.sh和post-fs-data.sh的执行在不破坏原有逻辑的情况下对代码进行优化
+
+# 来源
+原service.sh和post-fs-data.sh来自@ItosEO 的"ColorOS特性补全"应用提供的模块中的文件
 # v1.2.1_9 修改
 我也不知道改了啥
 # v1.2.1_8 修复
