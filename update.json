@@ -1,6 +1,6 @@
 {
-	"version": "v1.2.2_6",
-	"versionCode": 1226,
-	"zipUrl": "https://github.com/CiZhanYue/magisk-ColorOSCommonFeatureSupplements/releases/download/v1.2.2_6/ColorOSCommonFeatureSupplements.zip",
+	"version": "v1.2.3",
+	"versionCode": 1230,
+	"zipUrl": "https://github.com/CiZhanYue/magisk-ColorOSCommonFeatureSupplements/releases/download/v1.2.3/ColorOSCommonFeatureSupplements.zip",
 	"changelog": "https://raw.githubusercontent.com/CiZhanYue/magisk-ColorOSCommonFeatureSupplements/refs/heads/main/update.md"
 }
